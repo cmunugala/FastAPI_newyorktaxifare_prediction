@@ -7,6 +7,8 @@ Files in this repository:
 
 file_upload_api.py : contains the logic for the API. 
 model (folder):  
+
+
     • models.py : defines the neural net architecture. 
     
     
