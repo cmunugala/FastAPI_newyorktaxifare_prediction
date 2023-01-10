@@ -8,8 +8,14 @@ Files in this repository:
 file_upload_api.py : contains the logic for the API. 
 model (folder):  
     • models.py : defines the neural net architecture. 
+    
+    
     • predict.py : defines function for preprocessing (scaling) and running inference. 
+    
+    
     • new_york_taxi_model.pt : saved model file. 
+    
+    
     • scaler.joblib : saved scaler object. 
 
 
