@@ -5,20 +5,23 @@ In this project, I created an API for my new york taxi fare prediction model, wh
 
 Files in this repository:
 
-file_upload_api.py : contains the logic for the API. 
-model (folder):  
+
+    file_upload_api.py : contains the logic for the API. 
 
 
-    • models.py : defines the neural net architecture. 
-    
-    
-    • predict.py : defines function for preprocessing (scaling) and running inference. 
-    
-    
-    • new_york_taxi_model.pt : saved model file. 
-    
-    
-    • scaler.joblib : saved scaler object. 
+    model (folder):  
+
+
+        • models.py : defines the neural net architecture. 
+
+
+        • predict.py : defines function for preprocessing (scaling) and running inference. 
+
+
+        • new_york_taxi_model.pt : saved model file. 
+
+
+        • scaler.joblib : saved scaler object. 
 
 
 Tab Seperated File Instructions:
